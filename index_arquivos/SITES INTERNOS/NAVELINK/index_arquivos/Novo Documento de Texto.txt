@@ -1,0 +1,2 @@
+<!------------------TAMANHO TXT 18PX---------------------->
+<p style="color: blue; font-size: 18pt;"> Tag H2 estilizada diretamente com o atributo style</p>
